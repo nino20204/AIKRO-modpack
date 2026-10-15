@@ -1,133 +1,168 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minecraft": "1.20.1",
-  "forge": "47.x",
+  "forge": "47.4.0",
   "mods": [
     {
       "name": "Corgilib-Forge-1.20.1-4.0.3.4.jar",
+      "type": "mod",
       "size": 360700,
       "url": "https://github.com/nino20204/AIKRO-modpack/releases/download/v1.0.0/Corgilib-Forge-1.20.1-4.0.3.4.jar",
       "sha256": "9e638c7e73d997bb4ecba4aa40de90e89dd15fdbc4235fb997eed9ad43c10cd3"
     },
     {
       "name": "Data_Anchor-forge-1.20.1-1.0.0.20.jar",
+      "type": "mod",
       "size": 112171,
       "url": "https://github.com/nino20204/AIKRO-modpack/releases/download/v1.0.0/Data_Anchor-forge-1.20.1-1.0.0.20.jar",
       "sha256": "fcbfd48ac170e044099492fb075a57039d806258559c1fb871925d40d1c6e396"
     },
     {
       "name": "Enhanced_Celestials-forge-1.20.1-5.0.0.4.jar",
+      "type": "mod",
       "size": 1656994,
       "url": "https://github.com/nino20204/AIKRO-modpack/releases/download/v1.0.0/Enhanced_Celestials-forge-1.20.1-5.0.0.4.jar",
       "sha256": "674d747b80c9a9df0bd745ac6648ec336bc1c15d32fa16ffca3a5eb7b83ac76e"
     },
     {
       "name": "Jade-1.20.1-Forge-11.13.2.jar",
+      "type": "mod",
       "size": 552486,
       "url": "https://github.com/nino20204/AIKRO-modpack/releases/download/v1.0.0/Jade-1.20.1-Forge-11.13.2.jar",
       "sha256": "31949971a7a8d5a5bc95ad9d400cbedfd2d65ffbfb3cea7c0b2fa3b47431a0a5"
     },
     {
       "name": "ParCool-1.20.1-3.4.3.3.jar",
+      "type": "mod",
       "size": 1154052,
       "url": "https://github.com/nino20204/AIKRO-modpack/releases/download/v1.0.0/ParCool-1.20.1-3.4.3.3.jar",
       "sha256": "2ddef8752b5a1428035b95f29e62c81e33b80d37851681e1b928d8a01615c6e7"
     },
     {
       "name": "corpse-forge-1.20.1-1.0.23.jar",
+      "type": "mod",
       "size": 245644,
       "url": "https://github.com/nino20204/AIKRO-modpack/releases/download/v1.0.0/corpse-forge-1.20.1-1.0.23.jar",
       "sha256": "8d77c5fc8dc981c750a8e66d4665f055457f748f0ce49a303d9bc50347bdbf7c"
     },
     {
       "name": "curios-forge-5.14.1+1.20.1.jar",
+      "type": "mod",
       "size": 398066,
       "url": "https://github.com/nino20204/AIKRO-modpack/releases/download/v1.0.0/curios-forge-5.14.1+1.20.1.jar",
       "sha256": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
     },
     {
       "name": "embeddium-0.3.31+mc1.20.1.jar",
+      "type": "mod",
       "size": 1320675,
       "url": "https://github.com/nino20204/AIKRO-modpack/releases/download/v1.0.0/embeddium-0.3.31+mc1.20.1.jar",
       "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
     },
     {
       "name": "firstaid-1.20.1-1.1.jar",
+      "type": "mod",
       "size": 450159,
       "url": "https://github.com/nino20204/AIKRO-modpack/releases/download/v1.0.0/firstaid-1.20.1-1.1.jar",
       "sha256": "c2021a688e301f7a44da0ae04163ec8b8f077154e02c48e89063027b0cf33e4a"
     },
     {
       "name": "geckolib-forge-1.20.1-4.8.4.jar",
+      "type": "mod",
       "size": 1038209,
       "url": "https://github.com/nino20204/AIKRO-modpack/releases/download/v1.0.0/geckolib-forge-1.20.1-4.8.4.jar",
       "sha256": "c04abba4fd354dd8c0e8a732f1f05f4dca893d2e1d962b2ab128bbd411478747"
     },
     {
       "name": "jei-1.20.1-forge-15.20.0.133.jar",
+      "type": "mod",
       "size": 1409767,
       "url": "https://github.com/nino20204/AIKRO-modpack/releases/download/v1.0.0/jei-1.20.1-forge-15.20.0.133.jar",
       "sha256": "4d59c2fd5cea526e5bd1017bb3166d83bb31afba81b3d43cd1f04a0c7df547bb"
     },
     {
       "name": "journeymap-forge-1.20.1-6.0.0-beta.3.jar",
+      "type": "mod",
       "size": 4162470,
       "url": "https://github.com/nino20204/AIKRO-modpack/releases/download/v1.0.0/journeymap-forge-1.20.1-6.0.0-beta.3.jar",
       "sha256": "e5a3cd1a8d9e57ab23998cb45599fb98ef7c9ced00c55397e102ba9e0df0b7cc"
     },
     {
       "name": "kotlinforforge-4.12.0-all.jar",
+      "type": "mod",
       "size": 7442998,
       "url": "https://github.com/nino20204/AIKRO-modpack/releases/download/v1.0.0/kotlinforforge-4.12.0-all.jar",
       "sha256": "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae"
     },
     {
       "name": "lootr-forge-1.20-0.7.35.94.jar",
+      "type": "mod",
       "size": 463485,
       "url": "https://github.com/nino20204/AIKRO-modpack/releases/download/v1.0.0/lootr-forge-1.20-0.7.35.94.jar",
       "sha256": "01200ee5889e6bcc3c5fa8f32b7b49a4bd58e653699eeb655c6f2dd314e3ce51"
     },
     {
       "name": "mowziesmobs-1.8.2.jar",
+      "type": "mod",
       "size": 36033850,
       "url": "https://github.com/nino20204/AIKRO-modpack/releases/download/v1.0.0/mowziesmobs-1.8.2.jar",
       "sha256": "e8ce1768cda6f1e1fadd2321c92921b473bd0cee45ba4b8387fb30f8326cb31c"
     },
     {
       "name": "oculus-mc1.20.1-1.8.0.jar",
+      "type": "mod",
       "size": 2851119,
       "url": "https://github.com/nino20204/AIKRO-modpack/releases/download/v1.0.0/oculus-mc1.20.1-1.8.0.jar",
       "sha256": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef"
     },
     {
       "name": "sophisticatedbackpacks-1.20.1-3.24.59.1960.jar",
+      "type": "mod",
       "size": 1129298,
       "url": "https://github.com/nino20204/AIKRO-modpack/releases/download/v1.0.0/sophisticatedbackpacks-1.20.1-3.24.59.1960.jar",
       "sha256": "e5b76af26fbfde2a200b5c8a9a83a5a77d9aa8a7c6757558783b3dfa37e75e4b"
     },
     {
       "name": "sophisticatedcore-1.20.1-1.3.63.2112.jar",
+      "type": "mod",
       "size": 1608387,
       "url": "https://github.com/nino20204/AIKRO-modpack/releases/download/v1.0.0/sophisticatedcore-1.20.1-1.3.63.2112.jar",
       "sha256": "5fc183a90930988391c4aff3eeb2c557aade4b7d289da09a4b4a30254c65c98a"
     },
     {
       "name": "superbwarfare-0.8.9-final-mc1.20.1-6effe4385-all.jar",
+      "type": "mod",
       "size": 31691008,
       "url": "https://github.com/nino20204/AIKRO-modpack/releases/download/v1.0.0/superbwarfare-0.8.9-final-mc1.20.1-6effe4385-all.jar",
       "sha256": "6eece0df9c927bddee3bd373fe90a2bbcba7157e9408ee0f94d13e04dc638395"
     },
     {
       "name": "tacz-1.20.1-1.1.8-hotfix.jar",
+      "type": "mod",
       "size": 57465167,
       "url": "https://github.com/nino20204/AIKRO-modpack/releases/download/v1.0.0/tacz-1.20.1-1.1.8-hotfix.jar",
       "sha256": "9ed8ada1283ed7a793a70cc1b51c4a340f367ce84707e1a7b8cf21ee3d288d77"
     },
     {
       "name": "weaponmaster_ydm-forge-1.20.1-4.2.3.jar",
+      "type": "mod",
       "size": 283977,
       "url": "https://github.com/nino20204/AIKRO-modpack/releases/download/v1.0.0/weaponmaster_ydm-forge-1.20.1-4.2.3.jar",
       "sha256": "da63af14bd71b0be80376ed5ccc4e3669214e0e8baa5c7c1bbfa83d567513e9a"
+    },
+    {
+      "name": "Complementary.zip",
+      "type": "shader",
+      "size": 553397,
+      "url": "https://github.com/nino20204/AIKRO-modpack/releases/download/v1.0.0/Complementary.zip",
+      "sha256": "fed6c879e732cf7fc7bc6570ebb1def43235aa7e96f62859fbdbdbfa0b484b38"
+    },
+    {
+      "name": "Photon.zip",
+      "type": "shader",
+      "size": 3800987,
+      "url": "https://github.com/nino20204/AIKRO-modpack/releases/download/v1.0.0/Photon.zip",
+      "sha256": "120897768eaa8cb1f14a3e98f88dff009ae3204ee3b96904a4fe8586edfc1ead"
     }
   ]
 }
